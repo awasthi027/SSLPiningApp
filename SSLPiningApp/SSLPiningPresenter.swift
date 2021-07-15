@@ -7,6 +7,8 @@
 
 import Foundation
 
+// More info follow the link: (https://medium.com/@anuj.rai2489)
+
 enum HandShakeValidationRequest {
     case certificate
     case publicKey
